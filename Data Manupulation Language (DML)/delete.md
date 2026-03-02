@@ -9,7 +9,7 @@ Example
 ### Delete All Records :
  ```  DELETE FROM table_name; ```
  
-  Example : \
+Example : \
   ``` DELETE FROM ProductName;```
 
 ### Delete a Table :  
