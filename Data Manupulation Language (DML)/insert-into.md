@@ -7,10 +7,10 @@ Example 1
 ```INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
 VALUES ('Name', 'ContactName', 'Adress', 'CityName', 'PostalCode', 'Country');```
 
----Example 2
-INSERT INTO Customers (CustomerName, City, Country) VALUES ('CustomerName', 'City', 'Country');
+Example 2
+```INSERT INTO Customers (CustomerName, City, Country) VALUES ('CustomerName', 'City', 'Country');```
 
----Example 3
+Example 3
 INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
 VALUES
 ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway'),
