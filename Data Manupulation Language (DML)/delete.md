@@ -15,4 +15,4 @@ The DELETE statement delete existing records in a table. DELETE FROM table_name 
 ## Delete a Table :  You should use DROP TABLE
 
 Example : 
-DROP TABLE ProductName;
+```DROP TABLE ProductName;```
