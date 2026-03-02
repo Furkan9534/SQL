@@ -3,7 +3,7 @@ The DELETE statement delete existing records in a table. DELETE FROM table_name 
 
 ### Example  SQL 
 
-DELETE FROM Product WHERE ProductName='Tea';
+``` DELETE FROM Product WHERE ProductName='Tea'; ```
 
 
 ### Delete All Records :
