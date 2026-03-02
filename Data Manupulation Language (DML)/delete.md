@@ -11,8 +11,7 @@ DELETE FROM Product WHERE ProductName='Tea';
   Example : 
 DELETE FROM ProductName;
 
-## Delete a Table : 
- You should use DROP TABLE
+## Delete a Table :  You should use DROP TABLE
 
- Example SQL 
+Example : 
 DROP TABLE ProductName;
