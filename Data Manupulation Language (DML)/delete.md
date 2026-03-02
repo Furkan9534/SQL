@@ -12,7 +12,8 @@ The DELETE statement delete existing records in a table. DELETE FROM table_name 
   Example : \
   ``` DELETE FROM ProductName;```
 
-## Delete a Table :  You should use DROP TABLE
+## Delete a Table :  
+You should use DROP TABLE
 
-Example : 
+Example : \
 ```DROP TABLE ProductName;```
