@@ -9,7 +9,7 @@ DELETE FROM Product WHERE ProductName='Tea';
 ### Delete All Records :
  ```  DELETE FROM table_name; ```
  
-  Example : 
+  Example : \
   ``` DELETE FROM ProductName;```
 
 ## Delete a Table :  You should use DROP TABLE
