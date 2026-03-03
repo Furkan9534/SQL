@@ -14,5 +14,5 @@ Example 3
 Example 4
 ```SELECT * FROM Customers WHERE City NOT IN ('Moskova', 'London');```
 
----Example 5
+Example 5
 SELECT * FROM Customers WHERE NOT CustomerID > 70;
