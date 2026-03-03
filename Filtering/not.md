@@ -2,7 +2,7 @@
 The not eperator uses for oposite result.
 
 ```SELECT column1, column2, ... FROM table_name WHERE NOT condition;```
----Example 1 
+Example 1 
 SELECT * FROM Customers WHERE NOT Country = 'Italy';
 
 ---Example 2
