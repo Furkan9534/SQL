@@ -5,20 +5,21 @@ NULL Değerleri Nasıl Test Edebilirsiniz: Eşittir (=), geometrik (<) veya kü�
 IS NULL ve IS NOT NULL kullanmanız gerekir.
 
 ## IS NULL Syntax
-/*
+```
 SELECT column_names
 FROM table_name
 WHERE column_name IS NULL;
-*/
+```
 
-/*
+```
 SELECT column_names
 FROM table_name
 WHERE column_name IS NOT NULL;
-*/
+```
 
 
----Example 1
+-Example 1
+
 SELECT Name, Surname, Phone FROM Customers WHERE Phone IS NULL;
 
 ---Example 2
