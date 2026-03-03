@@ -5,7 +5,7 @@ The not eperator uses for oposite result.
 Example 1 
 ```SELECT * FROM Customers WHERE NOT Country = 'Italy';```
 
----Example 2
+Example 2
 SELECT * FROM Customers WHERE CustomerName NOT LIKE 'B%';
 
 ---Example 3
