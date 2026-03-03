@@ -11,7 +11,7 @@ WHERE condition1 AND condition2 AND condition3 ...;
 The AND operator displays a record if all the conditions are TRUE.
 
 Example 1
-```Select all customers from Spain that starts with the letter 'F'
+```Select all customers from Spain that starts with the letter 'F'```
 SELECT *FROM Customers WHERE Country = 'Spain' AND CustomerName LIKE 'F%';
 
 ---Example 2 
