@@ -15,5 +15,5 @@ Example 1
 ```SELECT *FROM Customers WHERE Country = 'Spain' AND CustomerName LIKE 'F%';```
 
 Example 2 
-SELECT * FROM Customers WHERE Country = 'Brazil' AND City = 'Rio de Janeiro'
+```SELECT * FROM Customers WHERE Country = 'Brazil' AND City = 'Rio de Janeiro'
 AND CustomerID > 50;
