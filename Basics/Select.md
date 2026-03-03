@@ -1,4 +1,4 @@
-# SEL
+# SELE
 
 #SELECT  data by using select keyword
 
