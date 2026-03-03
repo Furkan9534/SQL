@@ -6,4 +6,4 @@ SELECT  data by using select keyword
 
 Example 
 
-```SELECT CustomerName, City FROM Customers;
+```SELECT CustomerName, City FROM Customers;```
