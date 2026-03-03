@@ -16,4 +16,4 @@ Example 1
 
 Example 2 
 ```SELECT * FROM Customers WHERE Country = 'Brazil' AND City = 'Rio de Janeiro'
-AND CustomerID > 50;
+AND CustomerID > 50;```
