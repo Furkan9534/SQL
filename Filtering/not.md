@@ -8,7 +8,7 @@ Example 1
 Example 2
 ```SELECT * FROM Customers WHERE CustomerName NOT LIKE 'B%';```
 
----Example 3
+Example 3
 SELECT * FROM Customers WHERE CustomerID NOT BETWEEN 20 AND 40;
 
 ---Example 4
