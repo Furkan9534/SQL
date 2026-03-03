@@ -6,7 +6,7 @@ Example 1
 ```SELECT * FROM Customers WHERE NOT Country = 'Italy';```
 
 Example 2
-```SELECT * FROM Customers WHERE CustomerName NOT LIKE 'B%';
+```SELECT * FROM Customers WHERE CustomerName NOT LIKE 'B%';```
 
 ---Example 3
 SELECT * FROM Customers WHERE CustomerID NOT BETWEEN 20 AND 40;
