@@ -6,7 +6,7 @@ Where clause can contain one or more and operator to filter your record on sql t
 SELECT column1, column2, ...
 FROM table_name
 WHERE condition1 AND condition2 AND condition3 ...;
-*/
+```
 
 ---The AND operator displays a record if all the conditions are TRUE.
 
