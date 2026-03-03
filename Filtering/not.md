@@ -12,7 +12,7 @@ Example 3
 ```SELECT * FROM Customers WHERE CustomerID NOT BETWEEN 20 AND 40;```
 
 Example 4
-```SELECT * FROM Customers WHERE City NOT IN ('Moskova', 'London');
+```SELECT * FROM Customers WHERE City NOT IN ('Moskova', 'London');```
 
 ---Example 5
 SELECT * FROM Customers WHERE NOT CustomerID > 70;
