@@ -1,4 +1,5 @@
 # And Operator
+
 --Where clause can contain one or more and operator to filter your record on sql table. 
 /*
 SELECT column1, column2, ...
