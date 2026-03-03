@@ -5,4 +5,4 @@ The SELECT DISTINCT statement is used to return only distinct (different) values
 
 ## Example 
 
-```SELECT DISTINCT CustomerName, City FROM Customers;
+```SELECT DISTINCT CustomerName, City FROM Customers;```
