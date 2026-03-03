@@ -14,6 +14,6 @@ Example 1
 ```Select all customers from Spain that starts with the letter 'F'```
 ```SELECT *FROM Customers WHERE Country = 'Spain' AND CustomerName LIKE 'F%';```
 
---Example 2 
+-Example 2 
 SELECT * FROM Customers WHERE Country = 'Brazil' AND City = 'Rio de Janeiro'
 AND CustomerID > 50;
