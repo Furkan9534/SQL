@@ -12,7 +12,7 @@ The AND operator displays a record if all the conditions are TRUE.
 
 Example 1
 ```Select all customers from Spain that starts with the letter 'F'```
-SELECT *FROM Customers WHERE Country = 'Spain' AND CustomerName LIKE 'F%';
+```SELECT *FROM Customers WHERE Country = 'Spain' AND CustomerName LIKE 'F%';
 
 ---Example 2 
 SELECT * FROM Customers WHERE Country = 'Brazil' AND City = 'Rio de Janeiro'
