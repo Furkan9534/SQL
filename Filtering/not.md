@@ -9,7 +9,7 @@ Example 2
 ```SELECT * FROM Customers WHERE CustomerName NOT LIKE 'B%';```
 
 Example 3
-```SELECT * FROM Customers WHERE CustomerID NOT BETWEEN 20 AND 40;
+```SELECT * FROM Customers WHERE CustomerID NOT BETWEEN 20 AND 40;```
 
 ---Example 4
 SELECT * FROM Customers WHERE City NOT IN ('Moskova', 'London');
