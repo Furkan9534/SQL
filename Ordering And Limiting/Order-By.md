@@ -20,7 +20,7 @@ Your SQL query selects all customers in the "Customers" table
 by sorting them according to the "Country" and "CustomerName" 
 columns. This means the sorting is done by Country, and if some
  rows have the same Country value, then it is sorted by CustomerName.
-*/
+
 SELECT * FROM Customers ORDER BY Country, CustomerName;
 
 ---Using ASC and DESC together
