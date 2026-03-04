@@ -5,7 +5,7 @@ The Where clause can contain one or more or operator to filter sql table.
 
 if one condition is true for or operator, sql query will work.
 
----Example 1
+--Example 1
 SELECT *FROM Customers WHERE Country = 'Germany' OR Country = 'Spain';
 
 ---Example 2 
