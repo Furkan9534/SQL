@@ -10,4 +10,4 @@ WHERE condition;
 ``` 
 
 ``` UPDATE Product SET ProductName = 'Rice', City= 'London'
-WHERE CustomerID = 2;
+WHERE CustomerID = 2;``` 
