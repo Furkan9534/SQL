@@ -8,5 +8,5 @@ Eğer "veya" operatörü için bir koşul doğruysa, SQL sorgusu çalışacaktı
 Örnek 1
 ```SELECT *FROM Customers WHERE Country = 'Germany' OR Country = 'Spain';```
 
-Örnek 2 
+eX 2 
 ```SELECT * FROM Customers  WHERE City = 'London' OR CustomerName LIKE '%F' OR Country = 'The UK';```
