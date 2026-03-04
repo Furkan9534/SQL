@@ -16,10 +16,8 @@ SELECT * FROM tableName ORDER BY ColumnName DESC;
 SELECT * FROM tableName ORDER BY ColumnName ASC;
 ``` 
 ## Sort by Multiple Columns
-Your SQL query selects all customers in the "Customers" table 
-by sorting them according to the "Country" and "CustomerName" 
-columns. This means the sorting is done by Country, and if some
- rows have the same Country value, then it is sorted by CustomerName.
+SQL sorgunuz, "Customers" tablosundaki tüm müşterileri "Country" ve "CustomerName" sütunlarına göre sıralayarak seçer.
+Bu, sıralamanın önce Country'ye göre yapıldığı ve bazı satırların aynı Country değerine sahip olması durumunda CustomerName'e göre sıralandığı anlamına gelir.
 ``` 
 SELECT * FROM Customers ORDER BY Country, CustomerName;
 ``` 
