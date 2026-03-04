@@ -2,7 +2,7 @@
  On linux terminal , 
 ```docker cp ~/Desktop/Backup/database.bak sqlserver:/tmp/database.bak``` 
 
---SQL SCRIPT
+-SQL SCRIPT
 
 --SECOND STEP
 USE master
