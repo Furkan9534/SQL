@@ -5,6 +5,7 @@
 ## SQL SCRIPT
 
 ### SECOND STEP
+```
 USE master
 GO
 RESTORE FILELISTONLY 
