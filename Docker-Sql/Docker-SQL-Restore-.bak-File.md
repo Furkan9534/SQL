@@ -1,4 +1,4 @@
- --FIRST STEP
+ # FIRST STEP
  --On linux terminal , 
 --docker cp ~/Desktop/Backup/database.bak sqlserver:/tmp/database.bak
 
