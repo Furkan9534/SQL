@@ -11,6 +11,7 @@ GO
 RESTORE FILELISTONLY 
 FROM DISK = '/tmp/DatabaseName.bak'
 GO
+``` 
 
 --THİRD STEP
 RESTORE DATABASE DatabaseName
