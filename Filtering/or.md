@@ -1,6 +1,6 @@
 # OR Operator
-The Where clause can contain one or more or operator to filter sql table.
-
+ WHERE yan tümcesi, SQL tablosunu filtrelemek için bir veya daha fazla "veya" operatörü içerebilir.
+ 
 ```SELECT column1, column2, ... FROM table_name WHERE condition1 OR condition2 OR condition3 ...;```
 
 if one condition is true for or operator, sql query will work.
