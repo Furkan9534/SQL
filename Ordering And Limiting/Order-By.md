@@ -14,7 +14,7 @@ ORDER BY column1, column2, ... ASC|DESC;
 ``` 
 SELECT * FROM tableName ORDER BY ColumnName DESC;
 SELECT * FROM tableName ORDER BY ColumnName ASC;
-
+``` 
 ---Sort by Multiple Columns
 /*
 Your SQL query selects all customers in the "Customers" table 
