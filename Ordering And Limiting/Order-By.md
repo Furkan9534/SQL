@@ -1,5 +1,5 @@
 
----ORDER BY
+--ORDER BY
 /*
 In SQL, when a query is executed, 
 it is used to sort the resulting data in descending 
