@@ -16,7 +16,6 @@ SELECT * FROM tableName ORDER BY ColumnName DESC;
 SELECT * FROM tableName ORDER BY ColumnName ASC;
 ``` 
 ## Sort by Multiple Columns
-/*
 Your SQL query selects all customers in the "Customers" table 
 by sorting them according to the "Country" and "CustomerName" 
 columns. This means the sorting is done by Country, and if some
