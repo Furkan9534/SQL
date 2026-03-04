@@ -1,9 +1,9 @@
 
 # ORDER BY
 
-In SQL, when a query is executed, 
-it is used to sort the resulting data in descending 
-or ascending order.
+SQL'de bir sorgu yürütüldüğünde,
+sonuçlanan verileri azalan
+veya artan sırada sıralamak için kullanılır.
 
 ``` 
 SELECT column1, column2, ...
