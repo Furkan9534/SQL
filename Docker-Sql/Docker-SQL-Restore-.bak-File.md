@@ -23,3 +23,4 @@ MOVE 'bakFile' TO '/var/opt/mssql/data/YourdatabaseName_log.ldf',
 REPLACE,
 STATS = 5
 GO
+``` 
