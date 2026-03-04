@@ -9,4 +9,4 @@ Example 1
 ```SELECT *FROM Customers WHERE Country = 'Germany' OR Country = 'Spain';```
 
 Example 2 
-SELECT * FROM Customers  WHERE City = 'London' OR CustomerName LIKE '%F' OR Country = 'The UK';
+```SELECT * FROM Customers  WHERE City = 'London' OR CustomerName LIKE '%F' OR Country = 'The UK';
