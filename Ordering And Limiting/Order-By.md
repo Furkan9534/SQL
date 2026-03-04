@@ -5,8 +5,7 @@ In SQL, when a query is executed,
 it is used to sort the resulting data in descending 
 or ascending order.
 
-
-
+``` 
 SELECT column1, column2, ...
 FROM table_name
 ORDER BY column1, column2, ... ASC|DESC;
