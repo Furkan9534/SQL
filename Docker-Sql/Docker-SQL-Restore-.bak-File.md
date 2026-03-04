@@ -13,7 +13,8 @@ FROM DISK = '/tmp/DatabaseName.bak'
 GO
 ``` 
 
-THİRD STEP
+## THİRD STEP
+
 RESTORE DATABASE DatabaseName
 FROM DISK = '/tmp/DatabaseName.bak'
 WITH 
