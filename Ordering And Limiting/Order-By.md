@@ -11,7 +11,7 @@ FROM table_name
 ORDER BY column1, column2, ... ASC|DESC;
 ``` 
 
-
+``` 
 SELECT * FROM tableName ORDER BY ColumnName DESC;
 SELECT * FROM tableName ORDER BY ColumnName ASC;
 
