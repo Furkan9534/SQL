@@ -14,7 +14,7 @@ GO
 ``` 
 
 ## THİRD STEP
-
+``` 
 RESTORE DATABASE DatabaseName
 FROM DISK = '/tmp/DatabaseName.bak'
 WITH 
