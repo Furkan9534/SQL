@@ -23,7 +23,7 @@ columns. This means the sorting is done by Country, and if some
 ``` 
 SELECT * FROM Customers ORDER BY Country, CustomerName;
 ``` 
----Using ASC and DESC together
+--Using ASC and DESC together
 ---SQL sorgusunda, "TableName" tablosundaki tüm müşterileri "ColumnName1" 
 ---sütununa göre artan, "ColumnName2" sütununa göre ise azalan sırada sıralayarak seçer:
 
