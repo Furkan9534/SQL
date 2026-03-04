@@ -1,6 +1,6 @@
 # The SQL UPDATE 
 
---The UPDATE statement  modify the records in a table.
+-The UPDATE statement  modify the records in a table.
 
 ---UPDATE Syntax
 /*   
