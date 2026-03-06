@@ -1,6 +1,5 @@
 # DISTINCT
-The SELECT DISTINCT statement is used to return only distinct (different) values.
-
+"DISTINCT" kelimesi sql sorgusunda sadece benzersiz verileri gönderir yani verilerin tekrarlı halini görmenizi engeller.
 ```SELECT DISTINCT column1, column2, ... FROM table_name;```
 
 ## Example 
