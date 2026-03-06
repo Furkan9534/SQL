@@ -16,7 +16,7 @@ The DELETE statement delete existing records in a table.
   ``` DELETE FROM ProductName;```
 
 ### Tabloyu Silme :  
-"DROP" anahtar kelimesi tab
+"DROP" anahtar kelimesi tabloyu tamamen ortadan kaldırmayı sağlar.
 
 Örnek : \
 ```DROP TABLE ProductName;```
