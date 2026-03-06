@@ -15,7 +15,7 @@ The DELETE statement delete existing records in a table.
 Örnek : \
   ``` DELETE FROM ProductName;```
 
-### Delete a Table :  
+### Tabloyu Silme :  
 You should use DROP TABLE
 
 Example : \
