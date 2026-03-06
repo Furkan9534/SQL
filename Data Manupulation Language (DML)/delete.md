@@ -9,7 +9,7 @@ The DELETE statement delete existing records in a table.
 ``` DELETE FROM Product WHERE ProductName='Tea'; ```
 
 
-### Delete All Records :
+### Tablodan Tüm verilei silmek :
  ```  DELETE FROM table_name; ```
  
 Example : \
