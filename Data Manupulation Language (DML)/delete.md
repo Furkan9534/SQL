@@ -12,7 +12,7 @@ The DELETE statement delete existing records in a table.
 ### Tablodan Tüm verilei silmek :
  ```  DELETE FROM table_name; ```
  
-Example : \
+Örnek : \
   ``` DELETE FROM ProductName;```
 
 ### Delete a Table :  
