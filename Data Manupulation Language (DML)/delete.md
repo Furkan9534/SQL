@@ -1,5 +1,8 @@
 # SQL DELETE 
-The DELETE statement delete existing records in a table. DELETE FROM table_name WHERE condition;
+The DELETE statement delete existing records in a table. 
+"DELETE" anahtar kelimesi , sql sorgusunda tabloda olan verileri silmek için kullanırız. 
+### Örnek Kullanımı
+DELETE FROM table_name WHERE condition;
 
 Example 
 
