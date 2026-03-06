@@ -1,4 +1,4 @@
-# SQL DELETE 
+# SQL DELETE and DROP KEYWORDS
 The DELETE statement delete existing records in a table. 
 "DELETE" anahtar kelimesi , sql sorgusunda tabloda olan verileri silmek için kullanırız. 
 ### Örnek Kullanımlar
@@ -16,7 +16,7 @@ The DELETE statement delete existing records in a table.
   ``` DELETE FROM ProductName;```
 
 ### Tabloyu Silme :  
-You should use DROP TABLE
+"DROP" anahtar kelimesi tab
 
 Örnek : \
 ```DROP TABLE ProductName;```
